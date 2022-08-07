@@ -1,0 +1,14 @@
+# Live server database connection and Main domain url
+/*
+API_URL = https://baybridgebd.com
+DOMAIN_URL = http://vendor.feriwalacourier.com/Home
+
+*/
+# Local database connection
+
+
+API_URL = http://192.168.1.10:4000 
+DOMAIN_URL = http://localhost:3000/Home
+
+
+

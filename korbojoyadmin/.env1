@@ -1,0 +1,11 @@
+# Live server database connection and Main domain url
+
+DOMAIN_URL = http://admin.korbojoy.com/Home
+API_URL = https://baybridgebd.com
+
+
+# Localhost database connection  and Main domain url
+DOMAIN_URL = http://localhost:3002/Home
+API_URL = http://192.168.1.10:4000
+
+
